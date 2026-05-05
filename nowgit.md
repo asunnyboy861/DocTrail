@@ -15,10 +15,10 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/DocTrail/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/DocTrail/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/DocTrail/privacy.html | ⏳ Pending |
-| Terms of Use | https://asunnyboy861.github.io/DocTrail/terms.html | ⏳ Pending |
+| Landing Page | https://asunnyboy861.github.io/DocTrail/ | ✅ Active |
+| Support | https://asunnyboy861.github.io/DocTrail/support.html | ✅ Active |
+| Privacy Policy | https://asunnyboy861.github.io/DocTrail/privacy.html | ✅ Active |
+| Terms of Use | https://asunnyboy861.github.io/DocTrail/terms.html | ✅ Active |
 
 **Note**: Terms of Use required for IAP subscription apps.
 
